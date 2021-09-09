@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/top.png",
+    "headerImage": "https://invalidunit.github.io/repo/Depictions/Default/top.png",
     "tintColor": "#E830AC",
     "minVersion": "0.3",
     "tabs": [
@@ -21,19 +21,19 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.c1d3r.pulloverpro/Screenshot_01.png"
+                            "url": "https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.c1d3r.pulloverpro/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.c1d3r.pulloverpro/Screenshot_02.png"
+                            "url": "https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.c1d3r.pulloverpro/Screenshot_02.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.c1d3r.pulloverpro/Screenshot_03.png"
+                            "url": "https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.c1d3r.pulloverpro/Screenshot_03.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.c1d3r.pulloverpro/Screenshot_04.png"
+                            "url": "https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.c1d3r.pulloverpro/Screenshot_04.png"
                         }
                     ]
                 },

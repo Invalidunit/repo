@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://Invalidunit.github.io/repo/Depictions/Default/top_1.png",
+    "headerImage": "https://invalidunit.github.io/repo/Depictions/Default/top_1.png",
     "tintColor": "#B57D93",
     "minVersion": "0.3",
     "tabs": [
@@ -27,11 +27,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.dsar/Screenshot_01.png"
+                            "url": "https://invalidunit.github.io/repo/Depictions/com.nan.dsar/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.dsar/Screenshot_02.png"
+                            "url": "https://invalidunit.github.io/repo/Depictions/com.nan.dsar/Screenshot_02.png"
                         }
                     ]
                 },
