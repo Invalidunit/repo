@@ -40,10 +40,10 @@ Pre-Depends: firmware (>= 14.0)
 Depends: plutil | com.bingner.plutil
 Conflicts: com.nan.sccbav
 Filename: debs/com.nan.ccah_0.1.1_iphoneos-arm.deb
-Size: 1252
-MD5sum: 33bba1e92e5db1240c994a01c3f8502c
-SHA1: f122f404590e63c7bc1d2bebaf3a7fc19726271c
-SHA256: 3116897d54694df682637539e8c8805b5c0ec27ef4b8ee7dbe70f70c34d4f526
+Size: 1256
+MD5sum: bdc3cd3cdf192f6fb43c2f239cde46d6
+SHA1: 499092528fbcd339207bae008f5a42812586f5ea
+SHA256: f001ed50a25adeb99e44d6bde043c3e3dd1b62f606913927b30ae5605d30c9b3
 Section: System
 Description: 将 iOS14 控制中心横屏时，亮度和音量的高度的占用 3 格改回占用 2 格，安装后未激活越狱也生效
 Author: zhaonan
@@ -110,10 +110,10 @@ Maintainer: zhaonan
 Pre-Depends: firmware (>= 7.0)
 Depends: plutil | com.bingner.plutil
 Filename: debs/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm.deb
-Size: 1160
-MD5sum: e71e301fa801e17c1c30118195638751
-SHA1: 6fb83b002f0682e9c4be5f0abad691f871cb5962
-SHA256: dd13231c71c91faae14d9b114df09fa180995bb7aa4d02236baa8818db5eb0ef
+Size: 1172
+MD5sum: 78d2a5f09917d140445e7ca844c4b78f
+SHA1: 5169f117c8a7d1301bafa98c22e271528e740785
+SHA256: ceaa69072c47cac554887e7b67d3ef9ee0166380ee483b6270e65332944da7a4
 Section: System
 Description: 禁用 SpringBoard 崩溃后自动锁定的策略
 Author: zhaonan
@@ -430,10 +430,10 @@ Maintainer: zhaonan
 Pre-Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
 Depends: firmware (>=10.3), rsync, diskdev-cmds
 Filename: debs/com.nan.ft_0.4.0_iphoneos-arm.deb
-Size: 2876
-MD5sum: c462033c48b073a92c6c74813c79fd3e
-SHA1: 7fcfe35966be80063a5876d5e1491a2c3173535e
-SHA256: 5e44b18f0a514d4412533f1b0321959433f87660c01a0d080099dd440b6cd153
+Size: 2872
+MD5sum: 8ae0a281956e5925ace7caa9c5ba0cdf
+SHA1: 6ca5caf3b860cea47eac9eed6f464e9413f2148f
+SHA256: bc3add6ad899288a2f7a2a17609aa6a125287bd1304ccf2acc5e5d56371f6823
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Tag: role::hacker
@@ -503,10 +503,10 @@ Maintainer: zhaonan
 Pre-Depends: sed, openssh-server | openssh
 Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
 Filename: debs/com.nan.localhostssh_0.2.6_iphoneos-arm.deb
-Size: 1948
-MD5sum: b0290a701aebab297b1b50427effe62f
-SHA1: 1d9357eb1de100c88cd5b30fa2d5fadeddf1e9ed
-SHA256: cb112e39fb45d99c9d0bcb4b028b14554aa07f390dfdd20160df06789aa2dd89
+Size: 1960
+MD5sum: e8328f04af96e27c57857614814ca395
+SHA1: d67d99ee2b59e1eace37b16853940c95453190a8
+SHA256: b149234673dd6669946cc13d4746e9116398451375062f2612bd1a618ad48520
 Section: Addons
 Description: 仅为 iOS 本地 SSH 访问启用 2222 端口
 Author: zhaonan
@@ -536,10 +536,10 @@ Maintainer: zhaonan
 Pre-Depends: firmware (>= 11.0)
 Depends: plutil | com.bingner.plutil
 Filename: debs/com.nan.openccmm_0.1.3_iphoneos-arm.deb
-Size: 1144
-MD5sum: 0d3b2ea74afae329289766f27a83cdac
-SHA1: f84e161d6daa982eb21a74d84b3f80a822a53c72
-SHA256: 13753e05cdb359fc8964a918c5ee740d633141d073bac39c5ddfcc6daf32ba2e
+Size: 1152
+MD5sum: 856f8adf169f99dfd66b6324e6b2bfe3
+SHA1: 89b754a8e58db4c04f03993dfc55b2d13c7979d8
+SHA256: 58ee3d25a8950daecc111e2ea16e2f553b249822d4f48b88deee2fc225dacdd4
 Section: System
 Description: 激活原生 iPhone 控制中心静音模块，安装后未激活越狱也生效
 Author: zhaonan
@@ -608,10 +608,10 @@ Pre-Depends: firmware (>= 11.0)
 Depends: plutil | com.bingner.plutil
 Conflicts: com.nan.ccah
 Filename: debs/com.nan.sccbav_0.1.3_iphoneos-arm.deb
-Size: 1388
-MD5sum: 3297017bf034374a470335d4a4c1eef4
-SHA1: 2a707f68ac7729f067c1850ea81b07be81e0aa52
-SHA256: f74c8334a2b5b398eb4e075f00290a06dad903d82f1a87a1cf84fa86d286f6a2
+Size: 1396
+MD5sum: 35ef260154767a58ea7aba928e4930df
+SHA1: d586150193971d8fa99e420f2bdbb8a8c00dd644
+SHA256: cc33ff3c07ae7c51365871fd25dad4da78e1dbb9f846e3e4fe6569509da363eb
 Section: System
 Description: 将 iOS 控制中心的亮度和音量的高度占用改为 1 格，安装后未激活越狱也生效
 Author: zhaonan
@@ -644,10 +644,10 @@ Maintainer: zhaonan
 Depends: org.coolstar.sileo | org.coolstar.sileobeta
 Replaces: org.coolstar.sileo, org.coolstar.sileobeta
 Filename: debs/com.nan.sileo.zh-Hans_0.3.9_iphoneos-arm.deb
-Size: 7856
-MD5sum: 5b7069fb593f0c07d963e1577765767e
-SHA1: aee66d0a8a5270d0f1a69ecbc399d7e7cba656f9
-SHA256: ac7ef8622f4cc17211678594eda9461e6872cc0c0967ef5b597a6c32e445ab48
+Size: 7868
+MD5sum: 2e8b6f0d2ecf86cb2459826cd11d46b5
+SHA1: 41a1bd5f70fc1a7a96b9a5fb96b2427aa75a215d
+SHA256: c76357ca98b04f3e47949393678936d1fee3434643d431ba68782c457ea7a869
 Section: Localization
 Description: 为 Sileo 提供简体中文
 Author: zhaonan
@@ -662,10 +662,10 @@ Maintainer: zhaonan
 Pre-Depends: firmware (>= 11.0)
 Depends: plutil | com.bingner.plutil
 Filename: debs/com.nan.smallccairplay_0.1.0_iphoneos-arm.deb
-Size: 1148
-MD5sum: 0ae746bc7fab9bf5750e76f8fe0afb72
-SHA1: 572eb13dfb4f6cbf60aa969aa9c690e9d70c56f1
-SHA256: 0ade48de2673bfd7fa4507e8e3f22fb65815159c638fb983dbec39000facf21b
+Size: 1156
+MD5sum: 3f511aeadaf327caba1ea46814d7cb3b
+SHA1: 44f98626a5f7ee2fcef999081d4518b7f57fae3e
+SHA256: cece0a6bd1818fc987d03cde855edd5619722cfe0a81545726582a3be1e50d3a
 Section: System
 Description: 缩小控制中心的 AirPlay 模块，安装后未激活越狱也生效
 Author: zhaonan
