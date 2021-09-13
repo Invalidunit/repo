@@ -40,10 +40,10 @@ Pre-Depends: firmware (>= 14.0)
 Depends: plutil | com.bingner.plutil
 Conflicts: com.nan.sccbav
 Filename: debs/com.nan.ccah_0.1.1_iphoneos-arm.deb
-Size: 1256
-MD5sum: bdc3cd3cdf192f6fb43c2f239cde46d6
-SHA1: 499092528fbcd339207bae008f5a42812586f5ea
-SHA256: f001ed50a25adeb99e44d6bde043c3e3dd1b62f606913927b30ae5605d30c9b3
+Size: 1252
+MD5sum: f06c5d4d3fa876ba0df5d5e6afab06bf
+SHA1: 96264199d9fb38e44be3bf6ae444f04d34e3d3c9
+SHA256: d9d7431a42523e276b6d9a27ada3640f798a65e66bcb1802204ea95cc9a2be5e
 Section: System
 Description: 将 iOS14 控制中心横屏时，亮度和音量的高度的占用 3 格改回占用 2 格，安装后未激活越狱也生效
 Author: zhaonan
@@ -162,9 +162,9 @@ Maintainer: zhaonan
 Depends: org.coolstar.sileo | org.coolstar.sileobeta
 Filename: debs/com.nan.dsar_0.2.7-2_iphoneos-arm.deb
 Size: 2104
-MD5sum: 48e3157f071a91175eaaa1101c88f66d
-SHA1: 3146f5a958e02176186d8cf66ba754d06668bcfe
-SHA256: b32efe577a52da7636485211b1f414a680b66c658cc692e7cd2d307f8c0dc8f4
+MD5sum: 964753501f3c2f449dfeabca2fda7ba3
+SHA1: 45cc2b94996933747f492927dbd55f979e2cb1ae
+SHA256: bcb218f3f73be8fed6d2817e5b0b7eec9f0aa4a823171ab0cda15b1d84e860db
 Section: Scripting
 Description: 去除 Sileo 无法移除默认源的限制，去除非 Sileo 安装软件包的提示
 Author: zhaonan
@@ -430,10 +430,10 @@ Maintainer: zhaonan
 Pre-Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
 Depends: firmware (>=10.3), rsync, diskdev-cmds
 Filename: debs/com.nan.ft_0.4.0_iphoneos-arm.deb
-Size: 2872
-MD5sum: 8ae0a281956e5925ace7caa9c5ba0cdf
-SHA1: 6ca5caf3b860cea47eac9eed6f464e9413f2148f
-SHA256: bc3add6ad899288a2f7a2a17609aa6a125287bd1304ccf2acc5e5d56371f6823
+Size: 2848
+MD5sum: 525fc7e41d76968f9f4bc582f28ef00e
+SHA1: 5b92ee1d244c243e3c2bb097444c973d553cc5f5
+SHA256: 3923b4815011ccffc67f60e172adb427607305d7f9ce1dd4df306673708eec32
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Tag: role::hacker
@@ -503,10 +503,10 @@ Maintainer: zhaonan
 Pre-Depends: sed, openssh-server | openssh
 Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
 Filename: debs/com.nan.localhostssh_0.2.6_iphoneos-arm.deb
-Size: 1944
-MD5sum: edf07cd715f4168919017e329a910fc2
-SHA1: 2fdf6b5722a2832e0aa5df566b6afe1e6f0ef87f
-SHA256: 7114ece210cd11b08f8001c581176020bf6bec45a6a2c561e39ea3fee420ce9c
+Size: 1968
+MD5sum: 05fdca679d3c282c6155803f30b77317
+SHA1: b13527b7f01faf2a97e614a71720c483ebf9d89f
+SHA256: 6db006a20cbd8e1cdbee7cb9076d0225ed4cec1bbdd053949252bc6237024666
 Section: Addons
 Description: 仅为 iOS 本地 SSH 访问启用 2222 端口
 Author: zhaonan
@@ -680,10 +680,10 @@ Maintainer: zhaonan
 Pre-Depends: firmware (>= 10.3), sed, shell-cmds, diskdev-cmds | firmware-sbin
 Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
 Filename: debs/com.nan.snap_0.3.4-1_iphoneos-arm.deb
-Size: 3540
-MD5sum: 06e0e02e5f33666d99cffba2fba16466
-SHA1: 25a6653242c24cb5c80ff441523cb30ad6a9da8c
-SHA256: d9db163621745cf042827b10853de889c3e5258136aaeb3e48ba968eff744f13
+Size: 3524
+MD5sum: 8a9ae632f86014fea8ea285762266bd0
+SHA1: e81ddca4a95e979ca37a68be79bdaa56a699c48f
+SHA256: cb770010eda28a49955e3b33523e87001b5bd6a6cd99145809de683eb622c27b
 Section: Terminal_Support
 Description: 更便捷的快照管理
 Author: zhaonan
