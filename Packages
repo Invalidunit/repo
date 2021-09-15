@@ -503,10 +503,10 @@ Maintainer: zhaonan
 Pre-Depends: sed, openssh-server | openssh
 Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
 Filename: debs/com.nan.localhostssh_0.2.6_iphoneos-arm.deb
-Size: 1968
-MD5sum: 05fdca679d3c282c6155803f30b77317
-SHA1: b13527b7f01faf2a97e614a71720c483ebf9d89f
-SHA256: 6db006a20cbd8e1cdbee7cb9076d0225ed4cec1bbdd053949252bc6237024666
+Size: 1952
+MD5sum: 56d463053c3f9d1fa553f684cd135717
+SHA1: 29815f08922b9dad5f048b5e182319506b604b4a
+SHA256: 2be2b94115d0c91c2604cb5a183fcc41df26d7d8a20d48b546dc775bcab83b6b
 Section: Addons
 Description: 仅为 iOS 本地 SSH 访问启用 2222 端口
 Author: zhaonan
